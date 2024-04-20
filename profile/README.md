@@ -23,7 +23,7 @@ Repositories for building Droidian on miatoll devices.
 * Encryption (partial)
   
 ## Upgrade from Official image
-Before becoming a community project, Droidian was officially supported Miatoll devices.
+Before becoming a community project, Miatoll was officially supported by Droidian.
 
 If you don't want to reinstall your device, you can just move to community like this:
 * Go to http://adishatz.org/apt/pool/main/
