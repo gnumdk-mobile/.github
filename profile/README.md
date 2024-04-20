@@ -28,7 +28,12 @@ Before becoming a community project, Miatoll was officially supported by Droidia
 If you don't want to reinstall your device, you can just move to community like this:
 * Go to http://adishatz.org/apt/pool/main/
 * Download last miatoll-apt-config_*.gnumdk_all.deb
-* sudo dpkg -i miatoll-apt-config_*.gnumdk_all.deb
+  
+```
+sudo dpkg -i miatoll-apt-config_*.gnumdk_all.deb
+sudo apt update
+sudo apt upgrade
+```
 
 ## Download for my device:
 
