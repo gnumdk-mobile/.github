@@ -21,6 +21,14 @@ Repositories for building Droidian on miatoll devices.
 * MTP
 * GPS
 * Encryption (partial)
+  
+## Upgrade from Official image
+Before becoming a community project, Droidian was officially supported Miatoll devices.
+
+If you don't want to reinstall your device, you can just move to community like this:
+* Go to http://adishatz.org/apt/pool/main/
+* Download last miatoll-apt-config_*.gnumdk_all.deb
+* sudo dpkg -i miatoll-apt-config_*.gnumdk_all.deb
 
 ## Download for my device:
 
