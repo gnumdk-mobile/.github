@@ -75,3 +75,10 @@ $ unzip -d droidian  droidian-UNOFFICIAL-phosh-phone-xiaomi_miatoll-api29-arm64-
 $ cd droidian
 $ ./flash_all.sh
 ```
+
+## Settings 
+### Disable double tap on touchpanel
+```
+vim /etc/miatoll.conf 
+TOUCHPANEL_DOUBLE_TAP=0
+```
