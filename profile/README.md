@@ -8,7 +8,7 @@ Please report issues here: https://github.com/gnumdk-miatoll/issues/issues
 
 ## Support:
 
-You can join us on t.me/miatoll_gnumdk
+You can join us on https://t.me/miatoll_gnumdk
 
 ## Features:
 * Camera
