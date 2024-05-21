@@ -6,6 +6,10 @@ Repositories for building Droidian on miatoll devices.
 
 Please report issues here: https://github.com/gnumdk-miatoll/issues/issues
 
+## Support:
+
+You can join us on t.me/miatoll_gnumdk
+
 ## Features:
 * Camera
 * Sound
