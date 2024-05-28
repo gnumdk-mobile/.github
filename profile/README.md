@@ -10,6 +10,10 @@ Please report issues here: https://github.com/gnumdk-miatoll/issues/issues
 
 You can join us on https://t.me/miatoll_gnumdk
 
+You can support my work at:
+- https://www.patreon.com/gnumdk
+- https://www.paypal.com/paypalme/lollypopgnome
+
 ## Features:
 * Camera
 * Sound
