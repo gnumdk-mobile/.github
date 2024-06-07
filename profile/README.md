@@ -4,7 +4,7 @@ Repositories for building Droidian on miatoll devices.
 
 ## Issues:
 
-Please report issues here: https://github.com/gnumdk-miatoll/issues/issues
+Please report issues here: [https://github.com/gnumdk-miatoll/issues/issues](https://github.com/gnumdk-mobile/miatoll-issues/issues)
 
 ## Support:
 
